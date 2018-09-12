@@ -5,3 +5,5 @@ Fall 2017 Creators Update, which is Windows build 16215, aka Redstone 3. The mos
 ```
 Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux
 ```
+WINDOW WILL ASK YOU TO INSTALL WHEN YOU HIT "Y" FOR YES IT WILL INSTALL IN THE SHELL AND THEN REBOOT WITHOUT ASKING!  BE READY!!!!
+
